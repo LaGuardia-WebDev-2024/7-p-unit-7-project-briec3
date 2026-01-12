@@ -1,6 +1,6 @@
 //🟢Setup Procedure - Runs Once to Set The Canvas
 void setup() {
-    size(2000, 2000); 
+    size(3000, 3000); 
 }
 
 //🎯Variable Declarations Go Here
@@ -14,7 +14,7 @@ draw = function(){
   //butterfly
 fill(252, 3, 98)
 ellipse(57, 89, 10, 100); //thorax and abdomen
-fill(181, 5, 181)
+fill(181, 5, 181);
 
 
 
